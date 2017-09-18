@@ -1,0 +1,14 @@
+C:\Users\jd\AppData\Local\Temporary Projects\Uciekajacy przycisk2\bin\Debug\Uciekajacy przycisk2.exe
+C:\Users\jd\AppData\Local\Temporary Projects\Uciekajacy przycisk2\bin\Debug\Uciekajacy przycisk2.pdb
+C:\Users\jd\AppData\Local\Temporary Projects\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy_przycisk2.Form1.resources
+C:\Users\jd\AppData\Local\Temporary Projects\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy_przycisk2.Properties.Resources.resources
+C:\Users\jd\AppData\Local\Temporary Projects\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy przycisk2.csproj.GenerateResource.Cache
+C:\Users\jd\AppData\Local\Temporary Projects\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy przycisk2.exe
+C:\Users\jd\AppData\Local\Temporary Projects\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy przycisk2.pdb
+C:\Users\jd\documents\visual studio 2010\Projects\Uciekajacy przycisk2\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy przycisk2.exe
+C:\Users\jd\documents\visual studio 2010\Projects\Uciekajacy przycisk2\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy przycisk2.pdb
+C:\Users\jd\documents\visual studio 2010\Projects\Uciekajacy przycisk2\Uciekajacy przycisk2\bin\Debug\Uciekajacy przycisk2.exe
+C:\Users\jd\documents\visual studio 2010\Projects\Uciekajacy przycisk2\Uciekajacy przycisk2\bin\Debug\Uciekajacy przycisk2.pdb
+C:\Users\jd\documents\visual studio 2010\Projects\Uciekajacy przycisk2\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy_przycisk2.Form1.resources
+C:\Users\jd\documents\visual studio 2010\Projects\Uciekajacy przycisk2\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy_przycisk2.Properties.Resources.resources
+C:\Users\jd\documents\visual studio 2010\Projects\Uciekajacy przycisk2\Uciekajacy przycisk2\obj\x86\Debug\Uciekajacy przycisk2.csproj.GenerateResource.Cache
